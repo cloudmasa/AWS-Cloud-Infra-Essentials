@@ -10,7 +10,7 @@ Cloud infrastructure refers to the combination of hardware and software componen
 
 
 
-Key Components of Cloud Infrastructure:
+# Key Components of Cloud Infrastructure:
 
 
 
@@ -26,7 +26,7 @@ Management Tools: Tools that facilitate the monitoring, management, and automati
 
 
 
-Importance of Cloud Infrastructure 🌐
+# Importance of Cloud Infrastructure 🌐
 
 
 1. Scalability 📈
